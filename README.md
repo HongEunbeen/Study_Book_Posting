@@ -3,5 +3,5 @@
 
  - [리액트를 다루는 기술](https://github.com/HongEunbeen/Study_Book_Posting/tree/main/The_Art_of_React) 
  - [Effective Java 3/E](https://github.com/HongEunbeen/Study_Book_Posting/tree/main/Effective_Java_3:E) 
- - [Clean Code](https://github.com/HongEunbeen/Study_Book_Posting/tree/main/The_Art_of_React) 
+ - [Clean Code](https://github.com/HongEunbeen/Study_Book_Posting/tree/main/Clean_Code) 
  
