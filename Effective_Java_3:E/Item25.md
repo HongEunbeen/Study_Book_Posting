@@ -36,7 +36,7 @@ class Drink {
 - 컴파일 예시
     1.  `javac Main.java Drink.java`
         - 컴파일 오류 발생, Burger와 Drink 중복 정의
-    2.  `javac Main.java` ,  `javac Main.java Drink.java`
+    2.  `javac Main.java` ,  `javac Main.java Burger.java`
         - 동작, `original burger and water` 출력
     3. `javac Drink.java Main.java`
         - 동작, `cheese burger and coke` 출력
