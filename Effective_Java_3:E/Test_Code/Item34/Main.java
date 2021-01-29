@@ -5,5 +5,7 @@ public class Main {
         for (School sh : School.values()) {
             System.out.println(sh + "의 총 학생 수는 : " + all);
         }
+
+        
     }
 }
