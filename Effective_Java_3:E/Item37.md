@@ -53,7 +53,7 @@ public class main {
 
 - 코드 설명
 
-![./Image/Item37_Image1.png)
+![](./Image/Item37_Image1.png)
 
 - 문제점
     - **배열은 제네릭과 호환되지 않아 비검사 형변환**을 수행(컴파일 깔끔X)
@@ -99,7 +99,7 @@ public class main {
 
 - 코드 설명
 
-![./Image/Item37_Image2.png)
+![](./Image/Item37_Image2.png)
 
 ## EnumMap의 생성자
 
